@@ -1,6 +1,6 @@
 // variaveis
 let nomeHeroi = "Luide"
-let xpHeroi = 8501
+let xpHeroi = 7000
 let nivel;
 
 //estrutura de decisão
